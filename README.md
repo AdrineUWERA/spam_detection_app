@@ -4,7 +4,12 @@
 
 The Spam Detection App is a web application that utilizes a machine learning model to predict whether an email is spam or not. The model is trained on a dataset of labeled emails using a TF-IDF vectorizer and a Multinomial Naive Bayes classifier. The app has been deployed on Streamlit.
 
-Note: Deployed version of the web pages [Here](https://adrine-uwera-spam-detection-app.streamlit.app/)
+Demo Links: 
+
+Deployed version of the web pages [Here](https://adrine-uwera-spam-detection-app.streamlit.app/)
+
+
+Demo video: [Here](https://drive.google.com/file/d/1CVIBN5sn25RPekYZ3xsZfk3_g6h4eoz8/view?usp=sharing)
 
 ## Notebooks and dataset
 
